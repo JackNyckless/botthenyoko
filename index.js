@@ -5,7 +5,6 @@ var bye = 0;
 var findmat = 0;
 bot.login("NTMzOTk3NjQ3ODA4MTY3OTM2.Dxzisw.iuDhj7B6Cw18dvcODF9_C2WlWjA");
 bot.on("ready", () => {
-    process.env.fortnite;
     console.log("Bot is ready!");
 })
 
