@@ -1,0 +1,11 @@
+{
+  "name": "nyoko",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack_Nyckless",
+  "license": "ISC"
+}
